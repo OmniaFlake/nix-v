@@ -1,0 +1,6 @@
+{pkgs, ...}:
+{
+   globals = {
+     mapleader = " ";
+   };
+}
