@@ -5,6 +5,8 @@
 
     grammarPackages = with pkgs.vimPlugins.nvim-treesitter.builtGrammars; [
       bash
+      rust
+      python
       json
       lua
       make
