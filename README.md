@@ -1,2 +1,3 @@
 # nix-v
-# nix-v
+
+My nixvim config :)
